@@ -1,12 +1,46 @@
-# React + Vite
+# 📝 ToDo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple ToDo app built using **React** and **Tailwind CSS**. It allows users to add, complete, and delete tasks. All tasks are saved in the browser using **localStorage**, so they stay even after refreshing the page.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Save tasks locally using `localStorage`
+- Clear all tasks using the delete button
+- Time and Date added on nav
+- Responsive UI with Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
+- Browser's `localStorage` API
+
+---
+
+## 📸 Screenshot
+
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/1cef6805-37ee-4eb9-b11c-2d8a95d1cfc3" />
+
+
+
+---
+
+## 📂 Project Setup
+
+1. Clone the repo
+2. Run `npm install`
+3. Start the dev server: `npm run dev`
+
+---
+
+## 🙋‍♂️ Author
+
+**Sarthak Raj** – [GitHub](https://github.com/sarthakraj1)
