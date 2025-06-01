@@ -9,6 +9,7 @@ A simple ToDo app built using **React** and **Tailwind CSS**. It allows users to
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks
+- Count of Tasks completed & remaining 
 - Save tasks locally using `localStorage`
 - Clear all tasks using the delete button
 - Time and Date added on nav
